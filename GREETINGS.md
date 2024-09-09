@@ -26,7 +26,7 @@ React 기반의 간단한 포트폴리오 웹사이트 만들기, GitHub Copilot
 * [GitHub Copilot 활용해 페어 프로그래밍](https://education.github.com/pack)
 
 
-#### 사전 준비 - React 기반의 간단한 포트폴리오 사이트 만들기
+__사전 준비 - React 기반의 간단한 포트폴리오 사이트 만들기__
 * [Azure 학생 구독 준비해오기](https://azure.microsoft.com/free/students/?wt.mc_id=studentamb_335845)
 
 
