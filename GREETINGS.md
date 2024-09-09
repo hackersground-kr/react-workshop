@@ -20,10 +20,14 @@ Microsoft 교육자료를 할용해 진행됩니다. 멘토, MLSA의 지원이 �
 
 ## 중간 세션
 
-React 기반의 간단한 포트폴리오 웹사이트 만들기, GitHub Copilot 활용 페어 프로그래밍 등 여러분들의 코딩실력을 향상시킬 중간 세션이 준비되어 있습니다. 
+React 기반의 간단한 포트폴리오 웹사이트 만들기, GitHub Copilot 활용 페어 프로그래밍 등 여러분들의 코딩실력을 향상시킬 중간 세션이 준비되어 있습니다. 중간 세션에 참가할 분들은 아래 사전 준비 링크를 통해 미리 준비해주세요!
 
 * [React 기반의 간단한 포트폴리오 사이트 만들기](https://github.com/g1nya2/Technical-onboarding)
 * [GitHub Copilot 활용해 페어 프로그래밍](https://education.github.com/pack)
+
+
+__사전 준비__
+* [Azure 학생 구독 준비해오기](https://azure.microsoft.com/free/students/?wt.mc_id=studentamb_335845)
 
 
 ### 해커그라운드 커뮤니티 함께하기
