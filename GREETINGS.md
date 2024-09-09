@@ -26,6 +26,10 @@ React 기반의 간단한 포트폴리오 웹사이트 만들기, GitHub Copilot
 * [GitHub Copilot 활용해 페어 프로그래밍](https://education.github.com/pack)
 
 
+#### 사전 준비 - React 기반의 간단한 포트폴리오 사이트 만들기
+* [Azure 학생 구독 준비해오기](https://azure.microsoft.com/free/students/?wt.mc_id=studentamb_335845)
+
+
 ### 해커그라운드 커뮤니티 함께하기
 
 대구, 경북 개발자 500명 가량 함께하고 있습니다. 관심 있는 분들은 아래 링크로 참여해 함께해요!
